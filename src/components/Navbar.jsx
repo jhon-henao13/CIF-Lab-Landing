@@ -31,7 +31,7 @@ export const Navbar = () => {
           >
             <div className="relative">
               <img 
-                className="h-11 w-11 rounded-sm border border-cif-green/50 group-hover:border-cif-green transition-colors" 
+                className="h-15 w-15 rounded-sm border border-cif-green/50 group-hover:border-cif-green transition-colors" 
                 src={cifLogo} 
                 alt="CIF Lab Logo" 
               />
